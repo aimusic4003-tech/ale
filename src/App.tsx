@@ -405,7 +405,7 @@ function App() {
           </div>
 
           <div className="border-t border-slate-800 pt-8 text-center text-gray-400">
-            <p>&copy; 2026 TWO BROTHERS CARAVAN COMPANY. All rights reserved.</p>
+            <p>&copy; 2026 SEGULLAH PROJECTS AND DESIGNS. All rights reserved.</p>
           </div>
         </div>
       </footer>
