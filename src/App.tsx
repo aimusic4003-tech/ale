@@ -300,6 +300,73 @@ function App() {
             <div className="rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300">
               <img src="/images/20.jpg" alt="Gallery 20" className="w-full h-64 object-cover hover:scale-110 transition-transform duration-300" />
             </div>
+             <div className="rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300">
+              <img src="/images/21.jpg" alt="Gallery 21" className="w-full h-64 object-cover hover:scale-110 transition-transform duration-300" />
+            </div>
+             <div className="rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300">
+              <img src="/images/22.jpg" alt="Gallery 20" className="w-full h-64 object-cover hover:scale-110 transition-transform duration-300" />
+            </div>
+             <div className="rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300">
+              <img src="/images/23.jpg" alt="Gallery 20" className="w-full h-64 object-cover hover:scale-110 transition-transform duration-300" />
+            </div>
+             <div className="rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300">
+              <img src="/images/24.jpg" alt="Gallery 20" className="w-full h-64 object-cover hover:scale-110 transition-transform duration-300" />
+            </div>
+             <div className="rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300">
+              <img src="/images/25.jpg" alt="Gallery 20" className="w-full h-64 object-cover hover:scale-110 transition-transform duration-300" />
+            </div>
+             <div className="rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300">
+              <img src="/images/26.jpg" alt="Gallery 20" className="w-full h-64 object-cover hover:scale-110 transition-transform duration-300" />
+            </div>
+             <div className="rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300">
+              <img src="/images/27.jpg" alt="Gallery 20" className="w-full h-64 object-cover hover:scale-110 transition-transform duration-300" />
+            </div>
+             <div className="rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300">
+              <img src="/images/28.jpg" alt="Gallery 20" className="w-full h-64 object-cover hover:scale-110 transition-transform duration-300" />
+            </div>
+             <div className="rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300">
+              <img src="/images/29.jpg" alt="Gallery 20" className="w-full h-64 object-cover hover:scale-110 transition-transform duration-300" />
+            </div>
+             <div className="rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300">
+              <img src="/images/30.jpg" alt="Gallery 20" className="w-full h-64 object-cover hover:scale-110 transition-transform duration-300" />
+            </div>
+             <div className="rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300">
+              <img src="/images/31.jpg" alt="Gallery 20" className="w-full h-64 object-cover hover:scale-110 transition-transform duration-300" />
+            </div>
+             <div className="rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300">
+              <img src="/images/32.jpg" alt="Gallery 20" className="w-full h-64 object-cover hover:scale-110 transition-transform duration-300" />
+            </div>
+             <div className="rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300">
+              <img src="/images/33.jpg" alt="Gallery 20" className="w-full h-64 object-cover hover:scale-110 transition-transform duration-300" />
+            </div>
+             <div className="rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300">
+              <img src="/images/34.jpg" alt="Gallery 20" className="w-full h-64 object-cover hover:scale-110 transition-transform duration-300" />
+            </div>
+             <div className="rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300">
+              <img src="/images/35.jpg" alt="Gallery 20" className="w-full h-64 object-cover hover:scale-110 transition-transform duration-300" />
+            </div>
+             <div className="rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300">
+              <img src="/images/36.jpg" alt="Gallery 20" className="w-full h-64 object-cover hover:scale-110 transition-transform duration-300" />
+            </div>
+             <div className="rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300">
+              <img src="/images/37.jpg" alt="Gallery 20" className="w-full h-64 object-cover hover:scale-110 transition-transform duration-300" />
+            </div>
+             <div className="rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300">
+              <img src="/images/38.jpg" alt="Gallery 20" className="w-full h-64 object-cover hover:scale-110 transition-transform duration-300" />
+            </div>
+             <div className="rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300">
+              <img src="/images/39.jpg" alt="Gallery 20" className="w-full h-64 object-cover hover:scale-110 transition-transform duration-300" />
+            </div>
+             <div className="rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300">
+              <img src="/images/40.jpg" alt="Gallery 20" className="w-full h-64 object-cover hover:scale-110 transition-transform duration-300" />
+            </div>
+            <div className="rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300">
+              <img src="/images/41.jpg" alt="Gallery 20" className="w-full h-64 object-cover hover:scale-110 transition-transform duration-300" />
+            </div>
+            <div className="rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300">
+              <img src="/images/42.jpg" alt="Gallery 20" className="w-full h-64 object-cover hover:scale-110 transition-transform duration-300" />
+            </div>
+
           </div>
         </div>
       </section>
