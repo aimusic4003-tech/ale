@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 {
+=======
+   {
+>>>>>>> 453c94ea2f6ab5df176410789710f7fd00e15392
   "compilerOptions": {
     "target": "ES2022",
     "lib": ["ES2023"],
@@ -19,4 +23,8 @@
     "noFallthroughCasesInSwitch": true
   },
   "include": ["vite.config.ts"]
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 453c94ea2f6ab5df176410789710f7fd00e15392

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 {
+=======
+   {
+>>>>>>> 453c94ea2f6ab5df176410789710f7fd00e15392
   "compilerOptions": {
     "target": "ES2020",
     "useDefineForClassFields": true,
@@ -21,4 +25,8 @@
     "noFallthroughCasesInSwitch": true
   },
   "include": ["src"]
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 453c94ea2f6ab5df176410789710f7fd00e15392

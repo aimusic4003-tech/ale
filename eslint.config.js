@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import js from '@eslint/js';
+=======
+    import js from '@eslint/js';
+>>>>>>> 453c94ea2f6ab5df176410789710f7fd00e15392
 import globals from 'globals';
 import reactHooks from 'eslint-plugin-react-hooks';
 import reactRefresh from 'eslint-plugin-react-refresh';
@@ -25,4 +29,8 @@ export default tseslint.config(
       ],
     },
   }
+<<<<<<< HEAD
 );
+=======
+);
+>>>>>>> 453c94ea2f6ab5df176410789710f7fd00e15392
